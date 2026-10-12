@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-llm/commit/b54d325aa3c8c5498d238b2c72dee5764cabc7be",
       "git:hexsha": "b54d325aa3c8c5498d238b2c72dee5764cabc7be",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.1a8"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.1a8",
+      "repolex:parsedAt": "2026-10-12T16:43:08.335736+00:00"
     },
     {
       "@id": "https://repolex.ai/r/datasette/datasette-llm/commit/f8b1acd73b1b21ce68e6dfb97624afbb11c1997c",
